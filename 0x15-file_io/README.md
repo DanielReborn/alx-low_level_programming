@@ -1,1 +1,1 @@
-C - File I/O
+What is the difference between a function and a system call 
